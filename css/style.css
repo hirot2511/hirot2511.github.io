@@ -15,7 +15,7 @@ body {
     line-height: 1.6;
     letter-spacing: .1em;
     color: #4c4c4c;
-    background-color: #f8fbff;
+    background-color: #fff;
 }
 
 .button-contact {
@@ -67,7 +67,7 @@ header .site-title {
 
 header .site-title span {
     font-size: 4.2rem;
-    color: #78afff;
+    color: #247dff;
     display: block;
 }
 
@@ -105,7 +105,7 @@ section h2 {
 
 #skills
 {
-    background-color: #ff8578;
+    background-color: #71aaff;
 }
 #skills .container
 {
@@ -117,7 +117,7 @@ section h2 {
 #skills h2
 {
     margin-bottom: 60px;
-    color: #fdfcf6;
+    color: #fff;
 }
 
 #skills .skill-box {
@@ -152,14 +152,14 @@ section h2 {
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #ff8578;
+    background-color: #247dff;
 }
 
 #skills h3 {
     font-size: 2.4rem;
     font-weight: bold;
     margin-bottom: 10px;
-    color: #ff8578;
+    color: #247dff;
 }
 
 #works
@@ -239,7 +239,7 @@ section h2 {
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #78afff;
+    background-color: #247dff;
 }
 
 #works .works-box img {
@@ -253,7 +253,7 @@ section h2 {
 }
 
 #works .works-box a .works-box-inner .button-readmore:hover {
-    background-color: #ff8578;
+    background-color: #71aaff;
 }
 
 #contact ul {
@@ -297,16 +297,16 @@ section h2 {
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #78afff;
+    background-color: #247dff;
 }
 #contact ul a:hover
 {
-    background-color: #ff8578;
+    background-color: #71aaff;
 }
 
 footer {
     padding: 10px 0;
     text-align: center;
     color: #fff;
-    background-color: #ff8578;
+    background-color: #71aaff;
 }
